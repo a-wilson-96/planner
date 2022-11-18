@@ -5,3 +5,5 @@ The user can save the event to local storage by clicking the save buttton.
 Upon refreshing the page, the user will still see their entry in the box.
 
 ![Planner Screenshot](./Assets/screenshots/planner_screenshot.png "Planner Screenshot")
+
+https://a-wilson-96.github.io/planner/
